@@ -1,0 +1,43 @@
+@font-face {
+    font-family: s;
+    src: url('s.ttf')
+}
+
+ul {
+    font-weight: bold;
+    list-style-type: circle;
+}
+
+a {
+    
+    color: red;
+}
+
+body {
+    font-size: 115%;
+    background-image: url('free.jpg');
+    background-attachment: fixed;
+}
+
+#hosting {
+    margin: 0px 30px;
+    padding: 5px;
+    background-color: rgba(117, 188, 216, 0.377);
+}
+
+footer {
+    margin: 0px 30px;
+    background-color: rgba(0, 0, 0, 0.774);
+    font-family: 's';
+    font-size: 60px;
+    text-align: right;
+    color: darkred;
+    font-weight: 700;
+    padding-right: 20px;
+}
+
+#uvod {
+    margin: 0px 30px;
+    background-color: rgba(117, 188, 216, 0.377);
+    padding: 5px;
+}
